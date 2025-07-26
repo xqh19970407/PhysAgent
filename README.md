@@ -35,4 +35,4 @@ PhysAgent: An LLM-driven multi-agent framework for autonomous physics research w
 * **Leader Agent**
   Coordinates task distribution and dynamically allocates computational or agent resources for efficient execution.
 
-PhysAgent is built upon the framework design of MetaGPT (https://github.com/xqh19970407/PhysAgent). We sincerely thank the MetaGPT project for its open-source contribution. PhysAgent is currently undergoing rapid updates.
+PhysAgent is built upon the framework design of [MetaGPT](https://github.com/FoundationAgents/MetaGPT). We sincerely thank the MetaGPT project for its open-source contribution. PhysAgent is currently undergoing rapid updates.
